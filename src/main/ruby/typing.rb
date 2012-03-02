@@ -6,3 +6,4 @@ puts b
 b = "b"
 puts b
 puts (b==a)
+
